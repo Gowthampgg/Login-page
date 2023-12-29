@@ -3,3 +3,4 @@ Scenario: Login page
 given enter the url
 when user enter the username username fields 
 when user enter the password in the password field
+click on the login button
