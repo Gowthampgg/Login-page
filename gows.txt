@@ -5,3 +5,5 @@ when user enter the username username fields
 when user enter the password in the password field
 Then click on the login button
 Then it navigate to adac hotel
+adding the video call feature 
+adding the audio call feature
